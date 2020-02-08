@@ -10121,3 +10121,324 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.08-19.27.54:398][962]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
 [2020.02.08-19.27.54:398][962]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2020.02.08-19.27.54:616][962]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.27.56:413][968]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.27.56:413][968]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.27.56:413][968]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.27.56:639][968]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.27.58:429][974]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.27.58:429][974]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.27.58:429][974]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.27.58:645][974]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.00:445][980]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.00:445][980]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.00:445][980]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.00:656][980]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.02:462][986]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.02:462][986]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.02:462][986]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.02:672][986]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.04:480][992]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.04:480][992]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.04:480][992]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.04:672][992]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.06:497][998]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.06:497][998]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.06:497][998]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.06:675][998]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.08:512][  4]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.08:512][  4]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.08:512][  4]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.08:677][  4]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.10:527][ 10]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.10:527][ 10]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.10:527][ 10]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.10:681][ 10]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.12:545][ 16]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.12:545][ 16]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.12:545][ 16]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.12:682][ 16]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.14:562][ 22]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.14:562][ 22]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.14:562][ 22]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.14:700][ 22]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.16:577][ 28]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.16:577][ 28]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.16:577][ 28]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.16:715][ 28]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.18:592][ 34]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.18:592][ 34]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.18:592][ 34]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.18:727][ 34]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.20:605][ 40]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.20:606][ 40]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.20:606][ 40]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.20:742][ 40]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.22:623][ 46]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.22:623][ 46]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.22:623][ 46]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.22:761][ 46]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.24:538][ 52]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.24:538][ 52]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.24:538][ 52]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.24:765][ 52]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.26:553][ 58]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.26:554][ 58]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.26:554][ 58]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.26:768][ 58]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.28:570][ 64]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.28:570][ 64]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.28:570][ 64]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.28:768][ 64]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.30:586][ 70]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.30:586][ 70]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.30:586][ 70]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.30:775][ 70]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.32:603][ 76]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.32:603][ 76]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.32:603][ 76]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.32:779][ 76]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.34:618][ 82]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.34:618][ 82]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.34:618][ 82]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.34:784][ 82]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.36:636][ 88]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.36:636][ 88]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.36:636][ 88]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.36:790][ 88]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.38:653][ 94]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.38:654][ 94]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.38:654][ 94]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.38:794][ 94]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.40:569][100]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.40:569][100]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.40:569][100]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.40:795][100]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.42:586][106]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.42:586][106]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.42:586][106]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.42:810][106]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.44:602][112]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.44:602][112]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.44:602][112]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.44:816][112]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.46:618][118]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.46:618][118]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.46:618][118]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.46:819][118]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.48:634][124]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.48:634][124]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.48:634][124]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.48:842][124]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.50:652][130]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.50:652][130]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.50:652][130]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.50:860][130]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.52:666][136]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.52:666][136]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.52:666][136]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.52:867][136]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.54:683][142]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.54:683][142]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.54:683][142]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.54:882][142]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.56:700][148]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.56:701][148]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.56:701][148]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.56:898][148]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.28.58:714][154]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.28.58:714][154]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.28.58:716][154]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.28.58:907][154]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.00:731][160]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.00:731][160]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.00:731][160]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.00:911][160]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.02:749][166]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.02:749][166]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.02:749][166]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.02:913][166]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.04:766][172]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.04:766][172]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.04:766][172]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.04:913][172]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.06:783][178]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.06:783][178]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.06:783][178]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.06:912][178]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.08:697][367]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.08:697][367]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.08:697][367]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.08:712][369]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.10:811][608]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.10:811][608]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.10:812][608]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.10:827][610]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.12:224][638]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.12:224][638]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.12:224][638]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.12:377][638]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.14:242][644]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.14:242][644]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.14:242][644]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.14:381][644]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.16:157][650]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.16:157][650]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.16:158][650]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.16:388][650]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.18:274][656]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.18:274][656]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.18:274][656]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.18:401][656]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.20:188][662]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.20:188][662]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.20:188][662]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.20:412][662]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.22:305][668]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.22:305][668]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.22:305][668]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.22:434][668]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.24:318][674]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.24:319][674]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.24:319][674]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.24:458][674]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.26:333][680]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.26:333][680]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.26:333][680]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.26:474][680]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.28:352][686]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.28:352][686]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.28:352][686]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.28:480][686]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.30:363][692]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.30:364][692]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.30:364][692]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.30:498][692]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.32:677][698]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.32:677][698]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.32:678][698]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.32:805][698]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.34:596][704]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.34:596][704]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.34:596][704]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.34:798][704]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.36:619][710]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.36:619][710]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.36:619][710]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.36:811][710]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.38:644][716]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.38:644][716]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.38:644][716]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.38:844][716]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.40:660][722]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.40:660][722]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.40:660][722]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.40:861][722]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.42:197][726]MSLiveLinkLog: Successfully read asset json data
+[2020.02.08-19.29.42:379][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_Albedo.png)
+[2020.02.08-19.29.42:496][726]LogTexture: Display: Building textures: slkkdckb_2K_Albedo (AutoDXT, 2048X2048)
+[2020.02.08-19.29.43:252][726]LogTexture: Display: Building textures: slkkdckb_2K_Albedo (BC7, 2048X2048)
+[2020.02.08-19.29.44:327][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_AO.png)
+[2020.02.08-19.29.44:350][726]LogTexture: Display: Building textures: slkkdckb_2K_AO (AutoDXT, 2048X2048)
+[2020.02.08-19.29.44:672][726]LogTexture: Display: Building textures: slkkdckb_2K_AO (BC7, 2048X2048)
+[2020.02.08-19.29.45:984][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_Displacement.png)
+[2020.02.08-19.29.46:032][726]LogTexture: Display: Building textures: slkkdckb_2K_Displacement (AutoDXT, 2048X2048)
+[2020.02.08-19.29.46:249][726]LogTexture: Display: Building textures: slkkdckb_2K_Displacement (BC7, 2048X2048)
+[2020.02.08-19.29.47:557][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_Metalness.png)
+[2020.02.08-19.29.47:566][726]LogTexture: Display: Building textures: slkkdckb_2K_Metalness (AutoDXT, 2048X2048)
+[2020.02.08-19.29.47:718][726]LogTexture: Display: Building textures: slkkdckb_2K_Metalness (BC7, 2048X2048)
+[2020.02.08-19.29.49:079][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_Normal.png)
+[2020.02.08-19.29.49:301][726]LogTexture: Display: Building textures: slkkdckb_2K_Normal (BC5, 2048X2048)
+[2020.02.08-19.29.49:572][726]LogTexture: Display: Building textures: slkkdckb_2K_Normal (BC5, 2048X2048)
+[2020.02.08-19.29.49:804][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_Opacity.png)
+[2020.02.08-19.29.49:813][726]LogTexture: Display: Building textures: slkkdckb_2K_Opacity (AutoDXT, 2048X2048)
+[2020.02.08-19.29.49:989][726]LogTexture: Display: Building textures: slkkdckb_2K_Opacity (BC7, 2048X2048)
+[2020.02.08-19.29.50:904][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Mefascans Library\Downloaded\atlas\decals_misc_slkkdckb\slkkdckb_2K_Roughness.png)
+[2020.02.08-19.29.50:940][726]LogTexture: Display: Building textures: slkkdckb_2K_Roughness (AutoDXT, 2048X2048)
+[2020.02.08-19.29.51:409][726]LogTexture: Display: Building textures: slkkdckb_2K_Roughness (BC7, 2048X2048)
+[2020.02.08-19.29.53:101][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.08-19.29.53:552][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.546
+[2020.02.08-19.29.53:553][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/Elevator_Double_Door_00_inst] ([1] browsable assets)...
+[2020.02.08-19.29.53:570][727]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Atlases/Elevator_Double_Door_00/Elevator_Double_Door_00_inst.Elevator_Double_Door_00_inst]
+[2020.02.08-19.29.53:570][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/Elevator_Double_Door_00_inst]
+[2020.02.08-19.29.54:970][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/Elevator_Double_Door_00_inst_AutAF4D0B9B4E4DF88B4238558E40AC6CC2.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/Elevator_Double_Door_00_inst_Auto5.uasset'
+[2020.02.08-19.29.54:970][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Albedo] ([1] browsable assets)...
+[2020.02.08-19.29.54:976][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Albedo.slkkdckb_2K_Albedo]
+[2020.02.08-19.29.54:976][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Albedo]
+[2020.02.08-19.29.55:239][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_Albedo_Auto557A924D74043C32E5D99629C72D3DEE4.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Albedo_Auto5.uasset'
+[2020.02.08-19.29.55:240][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_AO] ([1] browsable assets)...
+[2020.02.08-19.29.55:247][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_AO.slkkdckb_2K_AO]
+[2020.02.08-19.29.55:247][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_AO]
+[2020.02.08-19.29.55:865][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_AO_Auto5D8F50690460B07796CC1688370C52001.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_AO_Auto5.uasset'
+[2020.02.08-19.29.55:866][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Displacement] ([1] browsable assets)...
+[2020.02.08-19.29.55:871][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Displacement.slkkdckb_2K_Displacement]
+[2020.02.08-19.29.55:871][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Displacement]
+[2020.02.08-19.29.56:212][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_Displacement_Auto596001900413E4D6255E3F68FE22BE9D8.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Displacement_Auto5.uasset'
+[2020.02.08-19.29.56:213][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Metalness] ([1] browsable assets)...
+[2020.02.08-19.29.56:215][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Metalness.slkkdckb_2K_Metalness]
+[2020.02.08-19.29.56:215][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Metalness]
+[2020.02.08-19.29.56:488][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_Metalness_Auto536DD7A3047D0D96B2E84959E3CAE0282.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Metalness_Auto5.uasset'
+[2020.02.08-19.29.56:489][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Normal] ([1] browsable assets)...
+[2020.02.08-19.29.56:494][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Normal.slkkdckb_2K_Normal]
+[2020.02.08-19.29.56:495][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Normal]
+[2020.02.08-19.29.56:992][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_Normal_Auto5D34F469444C031B53BA309AA8475569E.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Normal_Auto5.uasset'
+[2020.02.08-19.29.56:993][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Opacity] ([1] browsable assets)...
+[2020.02.08-19.29.56:998][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Opacity.slkkdckb_2K_Opacity]
+[2020.02.08-19.29.56:998][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Opacity]
+[2020.02.08-19.29.57:085][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_Opacity_Auto5B208CE7743DA6CF354E0AAB0D914EC95.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Opacity_Auto5.uasset'
+[2020.02.08-19.29.57:086][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Roughness] ([1] browsable assets)...
+[2020.02.08-19.29.57:091][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Roughness.slkkdckb_2K_Roughness]
+[2020.02.08-19.29.57:091][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Roughness]
+[2020.02.08-19.29.57:155][727]LogSavePackage: Moving '../../../../unreal/McProject2/MachProject2/Saved/slkkdckb_2K_Roughness_Auto556B67AA84F8E831C152A80AA02004FF1.tmp' to '../../../../unreal/McProject2/MachProject2/Saved/Autosaves/Game/Megascans/Atlases/Elevator_Double_Door_00/slkkdckb_2K_Roughness_Auto5.uasset'
+[2020.02.08-19.29.57:155][727]LogFileHelpers: Auto-saving content packages took 3.602
+[2020.02.08-19.29.57:360][728]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.57:360][728]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.57:360][728]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.57:438][728]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.29.59:578][735]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.29.59:578][735]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.29.59:578][735]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.29.59:731][735]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.01:595][741]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.01:595][741]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.01:595][741]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.01:736][741]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.03:612][747]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.03:612][747]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.03:612][747]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.03:752][747]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.05:628][753]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.05:628][753]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.05:628][753]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.05:767][753]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.07:644][759]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.07:644][759]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.07:644][759]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.07:775][759]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.09:660][765]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.09:660][765]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.09:660][765]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.09:777][765]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.11:575][771]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.11:575][771]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.11:575][771]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.11:788][771]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.13:592][777]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.13:592][777]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.13:592][777]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.13:793][777]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.15:608][783]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.15:608][783]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.15:608][783]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.15:793][783]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.17:621][789]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.17:621][789]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.17:622][789]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.17:806][789]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.19:638][795]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.19:638][795]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.19:638][795]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.19:806][795]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.08-19.30.21:655][801]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.02.08-19.30.21:655][801]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.02.08-19.30.21:655][801]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.02.08-19.30.21:820][801]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
